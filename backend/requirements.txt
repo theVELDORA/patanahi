@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jinja2
+pydantic
+fuzzywuzzy
+python-Levenshtein  # For better performance with fuzzywuzzy
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+faiss-cpu  # For FAISS vector store support
